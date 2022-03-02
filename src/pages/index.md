@@ -28,6 +28,8 @@ intro:
     - image: /img/products-grid3.jpg
       text: |
         Sheesh - bio tech? try hard much?
+    - text: asasfafs
+      image: /img/safari-pinned-tab.svg
   heading: What we offer
   description: |
     A LOT!
